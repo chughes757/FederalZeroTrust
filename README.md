@@ -9,11 +9,6 @@ The push for Zero Trust in the Federal government has really begun to get treact
 
 The EO specifically required the head of each agency to develop a plan to implement Zero Trust Architecture, aligned with guidance published by NIST. It also required the agencies to provide reporting to the Director of Office Management & Budget (OMB) on the plans. There are also requirements to weave Zero Trust Architecture through the agencies cloud migration and maturity efforts as well. 
 
-**DevSecOps library info:** 
-
-![stars](https://img.shields.io/github/stars/sottlmarek/DevSecOps?style=for-the-badge)
-![watchers](https://img.shields.io/github/watchers/sottlmarek/DevSecOps?color=green&style=for-the-badge) ![watchers](https://img.shields.io/github/forks/sottlmarek/DevSecOps?color=orange&style=for-the-badge)
-
 
 ## Table of contents
 
@@ -31,11 +26,19 @@ To fully understand the context in which the Federal government views Zero Trust
 - Executive Order 14028 "Executive Order on Improving the Nation's Cybersecurity" (https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
 - Office of Management and Budget (OMB) Memo M-22-09 "Moving the U.S. Government Toward Zero Trust Cybersecurity Principles" This Memo sets forth a Federal zero trust architecture (ZTA) strategy, requiring agencies to meet specific cybersecurity standards and objectives by the end of Fiscal Year (FY) 2024 (https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf)
 - Cybersecurity and Infrastructure Security Agency (CISA) Zero Trust Maturity Model (https://www.cisa.gov/zero-trust-maturity-model) 
+- Department of Defense (DoD) Zero Trust Reference Architecture (https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf)
 
 
-## Vendor Specific Zero Trust Content
+# Vendor Specific Zero Trust Content
 
-# Google 
+## Forrester
+
+- No More Chewy Centers: Introducing The Zero Trust ModelOf Information Securityby John Kindervagfor Security & Risk Professionals (https://media.paloaltonetworks.com/documents/Forrester-No-More-Chewy-Centers.pdf)
+- Forrester Zero Trust Blogs (https://www.forrester.com/blogs/tag/zero-trust/)
+- The Zero Trust Security Playbook For 2022 (https://www.forrester.com/playbook/The+Zero+Trust+Security+Playbook+For+2020/-/E-PLA300)
+- Zero Trust Is Not A Security Solution; It’s A Strategy (https://www.forrester.com/blogs/zero-trust-is-not-a-security-solution-it-is-a-strategy/)
+
+## Google 
 
 - BeyondCorp (https://cloud.google.com/beyondcorp)
 - An overview: "A New Approach to Enterprise Security" (https://research.google.com/pubs/pub43231.html)
@@ -45,29 +48,26 @@ To fully understand the context in which the Federal government views Zero Trust
 - The human element: "The User Experience" (https://research.google.com/pubs/pub46366.html)
 - Secure your endpoints: "Building a Healthy Fleet" (https://ai.google/research/pubs/pub47356)
 
-# Microsoft 
+## Microsoft 
 
 - Zero Trust Guidance Center (https://docs.microsoft.com/en-us/security/zero-trust/)
 - Transitioning to modern access architecture with Zero Trust (https://www.microsoft.com/en-us/insidetrack/transitioning-to-modern-access-architecture-with-zero-trust#:~:text=Microsoft%20has%20adopted%20a%20modern,of%20identities%2C%20devices%20and%20services.)
 
-
-# Amazon Web Services (AWS) 
+## Amazon Web Services (AWS) 
 
 - Zero Trust on AWS (https://aws.amazon.com/security/zero-trust/)
 - Blog - Zero Trust architectures: An AWS Perspective (https://aws.amazon.com/blogs/security/zero-trust-architectures-an-aws-perspective/)
 - Video - re:Invent 2020 - Zero Trust: An AWS perspective (32:36) (https://www.youtube.com/watch?v=O33LPy4M4vA)
 
-
-
-
-## Videos/Courses
+## Videos
 
 - ATARC Federal Zero Trust Summit (https://www.youtube.com/watch?v=CfIWsq0bkTU)
 - GovBrief Zero Trust Architecture Adoption in Federal Government (https://www.youtube.com/watch?v=Me7CRvVSElQ)
 - Government Matters How can government agencies implement OMB guidance on zero trust? (https://www.youtube.com/watch?v=gcfRnaudErA)
 - CISA Cybersecurity Summit 2021: Zero Trust (https://www.youtube.com/watch?v=wW3Qtv5MgeQ)
 - ATARC Hear From the Authors: Federal Zero Trust Strategy and Maturity Model (https://www.youtube.com/watch?v=bhTujGT_bSo)
-- 
+- FEDERAL TECH TALK with Dr. Chase Cunningham: A deeper understanding of zero trust (https://federalnewsnetwork.com/federal-tech-talk/2021/06/a-deeper-understanding-of-zero-trust/)
+
 
 ## Books
 
@@ -75,6 +75,10 @@ To fully understand the context in which the Federal government views Zero Trust
 - Zero Trust Networks: Building Secure Systems in Untrusted Networks (https://www.amazon.com/Zero-Trust-Networks-Building-Untrusted/dp/1491962194/ref=sr_1_4?crid=3J7JOGUU6H22F&keywords=zero+trust+security&qid=1645463553&s=books&sprefix=zero+trust%2Cstripbooks%2C1410&sr=1-4)
 - Zero Trust Architecture: A New Model For Combating Cyber Attacks (https://www.amazon.com/Zero-Trust-Architecture-Combating-Attacks-ebook/dp/B0938Y64RP/ref=sr_1_9?crid=3J7JOGUU6H22F&keywords=zero+trust+security&qid=1645463553&s=books&sprefix=zero+trust%2Cstripbooks%2C1410&sr=1-9)
 - The CISO Guide to Zero Trust Security (https://www.amazon.com/CISO-Guide-Zero-Trust-Security/dp/B09RM5HXGR/ref=sr_1_11?crid=3J7JOGUU6H22F&keywords=zero+trust+security&qid=1645463553&s=books&sprefix=zero+trust%2Cstripbooks%2C1410&sr=1-11)
+
+## Newsletters
+
+- Dr. Zero Trust ZT Edge (https://www.zerotrustedge.com/)
 
 
 ## Creators
@@ -85,5 +89,5 @@ To fully understand the context in which the Federal government views Zero Trust
 
 ## Thanks
 
-Special thanks goes out to all the compliance innovators that made this compilation of resources possible. From GSA/18F, Cloud.gov, Kessel Run, Platform One, Army Software Factory/Enterprise Cloud Management Agency (ECMA),CMS batCAVE and Rapid ATO, and the countless other innovative Federal programs and teams who are constantly working to make a better Government, Military and Nation for U.S. citizens. 
+Special thanks goes out to all of the Zero Trust pioneers who have contributed to this modernized approach to cybersecurity over the years. From the concept in a whitepaper, vendor specific implementations and pursuits all the way to those who have played a role it now being a published Federal strategy and implementation goal. 
 
