@@ -9,6 +9,11 @@ The push for Zero Trust in the Federal government has really begun to get treact
 
 The EO specifically required the head of each agency to develop a plan to implement Zero Trust Architecture, aligned with guidance published by NIST. It also required the agencies to provide reporting to the Director of Office Management & Budget (OMB) on the plans. There are also requirements to weave Zero Trust Architecture through the agencies cloud migration and maturity efforts as well. 
 
+**DevSecOps library info:** 
+
+![stars](https://img.shields.io/github/stars/sottlmarek/DevSecOps?style=for-the-badge)
+![watchers](https://img.shields.io/github/watchers/sottlmarek/DevSecOps?color=green&style=for-the-badge) ![watchers](https://img.shields.io/github/forks/sottlmarek/DevSecOps?color=orange&style=for-the-badge)
+
 
 ## Table of contents
 
@@ -21,10 +26,11 @@ To fully understand the context in which the Federal government views Zero Trust
 "The term “Zero Trust Architecture” means a security model, a set of system design principles, and a coordinated cybersecurity and system management strategy based on an acknowledgement that threats exist both inside and outside traditional network boundaries.  The Zero Trust security model eliminates implicit trust in any one element, node, or service and instead requires continuous verification of the operational picture via real-time information from multiple sources to determine access and other system responses.  In essence, a Zero Trust Architecture allows users full access but only to the bare minimum they need to perform their jobs.  If a device is compromised, zero trust can ensure that the damage is contained.  The Zero Trust Architecture security model assumes that a breach is inevitable or has likely already occurred, so it constantly limits access to only what is needed and looks for anomalous or malicious activity.  Zero Trust Architecture embeds comprehensive security monitoring; granular risk-based access controls; and system security automation in a coordinated manner throughout all aspects of the infrastructure in order to focus on protecting data in real-time within a dynamic threat environment.  This data-centric security model allows the concept of least-privileged access to be applied for every access decision, where the answers to the questions of who, what, when, where, and how are critical for appropriately allowing or denying access to resources based on the combination of sever."
 
 
-## Federal EO and Memos
+## Federal EO, Memos and Guidance
 
 - Executive Order 14028 "Executive Order on Improving the Nation's Cybersecurity" (https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
 - Office of Management and Budget (OMB) Memo M-22-09 "Moving the U.S. Government Toward Zero Trust Cybersecurity Principles" This Memo sets forth a Federal zero trust architecture (ZTA) strategy, requiring agencies to meet specific cybersecurity standards and objectives by the end of Fiscal Year (FY) 2024 (https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf)
+- Cybersecurity and Infrastructure Security Agency (CISA) Zero Trust Maturity Model (https://www.cisa.gov/zero-trust-maturity-model) 
 
 
 ## Vendor Specific Zero Trust Content
@@ -55,6 +61,20 @@ To fully understand the context in which the Federal government views Zero Trust
 
 
 ## Videos/Courses
+
+- ATARC Federal Zero Trust Summit (https://www.youtube.com/watch?v=CfIWsq0bkTU)
+- GovBrief Zero Trust Architecture Adoption in Federal Government (https://www.youtube.com/watch?v=Me7CRvVSElQ)
+- Government Matters How can government agencies implement OMB guidance on zero trust? (https://www.youtube.com/watch?v=gcfRnaudErA)
+- CISA Cybersecurity Summit 2021: Zero Trust (https://www.youtube.com/watch?v=wW3Qtv5MgeQ)
+- ATARC Hear From the Authors: Federal Zero Trust Strategy and Maturity Model (https://www.youtube.com/watch?v=bhTujGT_bSo)
+- 
+
+## Books
+
+- Zero Trust Security: An Enterprise Guide (https://www.amazon.com/Zero-Trust-Security-Enterprise-Guide/dp/148426701X/ref=sr_1_3?crid=3J7JOGUU6H22F&keywords=zero+trust+security&qid=1645463553&s=books&sprefix=zero+trust%2Cstripbooks%2C1410&sr=1-3)
+- Zero Trust Networks: Building Secure Systems in Untrusted Networks (https://www.amazon.com/Zero-Trust-Networks-Building-Untrusted/dp/1491962194/ref=sr_1_4?crid=3J7JOGUU6H22F&keywords=zero+trust+security&qid=1645463553&s=books&sprefix=zero+trust%2Cstripbooks%2C1410&sr=1-4)
+- Zero Trust Architecture: A New Model For Combating Cyber Attacks (https://www.amazon.com/Zero-Trust-Architecture-Combating-Attacks-ebook/dp/B0938Y64RP/ref=sr_1_9?crid=3J7JOGUU6H22F&keywords=zero+trust+security&qid=1645463553&s=books&sprefix=zero+trust%2Cstripbooks%2C1410&sr=1-9)
+- The CISO Guide to Zero Trust Security (https://www.amazon.com/CISO-Guide-Zero-Trust-Security/dp/B09RM5HXGR/ref=sr_1_11?crid=3J7JOGUU6H22F&keywords=zero+trust+security&qid=1645463553&s=books&sprefix=zero+trust%2Cstripbooks%2C1410&sr=1-11)
 
 
 ## Creators
