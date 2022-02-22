@@ -3,6 +3,8 @@ This repository is a collection of resources to understand the Federal governmen
 
 ![image](https://user-images.githubusercontent.com/94196833/155004193-2b182a6a-e682-4c98-b987-d2bba218a8c1.png)
 
+# "Please note that the "zero" in Zero Trust is a bit of a misnomer - it's not about literally "zero" trust, but about zero inherent or implicit trust. Zero Trust is about carefully building a foundation of trust, and growing that trust to ultimately permit an appropriate level of access at the right time" - Jason Garbis & Jerry Chapman - Zero Trust Security: An Enterprise Guide 
+
 
 # Background
 
@@ -14,6 +16,12 @@ The EO specifically required the head of each agency to develop a plan to implem
 
 
 # Table of contents
+
+- Definitions[Definitions]
+- Federal EO, Memos and Guidance[Federal-EO,-Memos-and-Guidance]
+- Vendor Specific Zero Trust Content [Vendor-Specific-Zero-Trust-Content]
+- Books[Books]
+- Newsletters[Newsletters]
 
 
 
