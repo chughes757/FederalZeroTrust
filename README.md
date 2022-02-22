@@ -17,11 +17,11 @@ The EO specifically required the head of each agency to develop a plan to implem
 
 # Table of contents
 
-- Definitions[Definitions]
-- Federal EO, Memos and Guidance[Federal-EO,-Memos-and-Guidance]
-- Vendor Specific Zero Trust Content [Vendor-Specific-Zero-Trust-Content]
-- Books[Books]
-- Newsletters[Newsletters]
+- [Definitions](#Definitions)
+- [Federal EO, Memos and Guidance](#Federal-EO,-Memos-and-Guidance)
+- [Vendor Specific Zero Trust Content](#Vendor-Specific-Zero-Trust-Content)
+- [Books](#Books)
+- [Newsletters](#Newsletters)
 
 
 
