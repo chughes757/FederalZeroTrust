@@ -3,7 +3,7 @@ This repository is a collection of resources to understand the Federal governmen
 
 ![image](https://user-images.githubusercontent.com/94196833/155004193-2b182a6a-e682-4c98-b987-d2bba218a8c1.png)
 
-# "Please note that the "zero" in Zero Trust is a bit of a misnomer - it's not about literally "zero" trust, but about zero inherent or implicit trust. Zero Trust is about carefully building a foundation of trust, and growing that trust to ultimately permit an appropriate level of access at the right time" - Jason Garbis & Jerry Chapman - Zero Trust Security: An Enterprise Guide 
+## "Please note that the "zero" in Zero Trust is a bit of a misnomer - it's not about literally "zero" trust, but about zero inherent or implicit trust. Zero Trust is about carefully building a foundation of trust, and growing that trust to ultimately permit an appropriate level of access at the right time" - Jason Garbis & Jerry Chapman - Zero Trust Security: An Enterprise Guide 
 
 
 # Background
@@ -44,7 +44,7 @@ To fully understand the context in which the Federal government views Zero Trust
 
 ## Forrester
 
-- No More Chewy Centers: Introducing The Zero Trust ModelOf Information Securityby John Kindervagfor Security & Risk Professionals (https://media.paloaltonetworks.com/documents/Forrester-No-More-Chewy-Centers.pdf)
+- No More Chewy Centers: Introducing The Zero Trust Model Of Information Security by John Kindervag for Security & Risk Professionals (https://media.paloaltonetworks.com/documents/Forrester-No-More-Chewy-Centers.pdf)
 - Forrester Zero Trust Blogs (https://www.forrester.com/blogs/tag/zero-trust/)
 - The Zero Trust Security Playbook For 2022 (https://www.forrester.com/playbook/The+Zero+Trust+Security+Playbook+For+2020/-/E-PLA300)
 - Zero Trust Is Not A Security Solution; It’s A Strategy (https://www.forrester.com/blogs/zero-trust-is-not-a-security-solution-it-is-a-strategy/)
@@ -100,5 +100,5 @@ To fully understand the context in which the Federal government views Zero Trust
 
 # Thanks
 
-Special thanks goes out to all of the Zero Trust pioneers who have contributed to this modernized approach to cybersecurity over the years. From the concept in a whitepaper, vendor specific implementations and pursuits all the way to those who have played a role it now being a published Federal strategy and implementation goal. 
+Special thanks goes out to all of the Zero Trust pioneers who have contributed to this modernized approach to cybersecurity over the years. From the concept in a whitepaper, vendor specific implementations and pursuits all the way to those who have played a role it now being a published Federal strategy and implementation goal. Specically I would like to thank leaders like John Kindervag, Dr. Chase Cunningham, Jerry Chapman, Evan Gilman, Doug Barth and Jasob Garbis, who I've personally learned a lot from on the topic of Zero Trust.
 
