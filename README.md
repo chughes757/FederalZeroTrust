@@ -39,6 +39,14 @@ To fully understand the context in which the Federal government views Zero Trust
 - Cybersecurity and Infrastructure Security Agency (CISA) Zero Trust Maturity Model (https://www.cisa.gov/zero-trust-maturity-model) 
 - Department of Defense (DoD) Zero Trust Reference Architecture (https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf)
 
+# NIST
+
+- NIST 800-207 Zero Trust Architecture (https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf)
+- Whitepaper Planning for a Zero Trust Architecture: A Starting Guide for Administrators (https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.08042021-draft.pdf)
+- Conference DevSecOps and Zero Trust Architecture (ZTA) for Multi-Cloud Environments (https://www.nist.gov/news-events/events/2021/01/devsecops-and-zero-trust-architecture-zta-multi-cloud-environments)
+- Conference DevSecOps and ZTA for Cloud-Native Applications - Third Annual Multi-Cloud Conference and Workshop (https://csrc.nist.gov/Events/2022/3rd-multi-cloud-annual-conference-devsecops-and-zt)
+
+
 
 # Vendor Specific Zero Trust Content
 
