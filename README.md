@@ -12,7 +12,7 @@ Zero Trust is far from being a new term or concept. The term itself dates back t
 
 The push for Zero Trust in the Federal government has really begun to get treaction with the publication of Executive Order 14028 "Executive Order on Improving the Nation's Cybersecurity". This EO mentions the term "Zero Trust" 11 times and specifically states "The Federal Government must adopt security best practices and advance towards a Zero Trust Architecture".
 
-The EO specifically required the head of each agency to develop a plan to implement Zero Trust Architecture, aligned with guidance published by NIST. It also required the agencies to provide reporting to the Director of Office Management & Budget (OMB) on the plans. There are also requirements to weave Zero Trust Architecture through the agencies cloud migration and maturity efforts as well. 
+The EO specifically required the head of each agency to develop a plan to implement Zero Trust Architecture, aligned with guidance published by NIST. It also required the agencies to provide reporting to the Director of Office Management & Budget (OMB) on the plans. There are also requirements to weave Zero Trust Architecture through the agencies cloud migration and maturity efforts as well. Subsequently a memo has pushed the EO to the National Security Systems (NSS) such as the Department of Defense (DoD) and Intelligence Community (IC). DoD is currently undergoing a pilot titled Thunderdome and has released a Reference Architecture, which is listed below. 
 
 
 # Table of contents
