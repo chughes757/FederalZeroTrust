@@ -79,6 +79,13 @@ To fully understand the context in which the Federal government views Zero Trust
 - Blog - Zero Trust architectures: An AWS Perspective (https://aws.amazon.com/blogs/security/zero-trust-architectures-an-aws-perspective/)
 - Video - re:Invent 2020 - Zero Trust: An AWS perspective (32:36) (https://www.youtube.com/watch?v=O33LPy4M4vA)
 
+## HashiCorp 
+
+- https://www.hashicorp.com/solutions/zero-trust-security
+- https://www.hashicorp.com/resources/enabling-zero-trust-security-in-the-public-sector
+- https://www.hashicorp.com/resources/how-zero-trust-networking
+
+
 # Videos
 
 - ATARC Federal Zero Trust Summit (https://www.youtube.com/watch?v=CfIWsq0bkTU)
