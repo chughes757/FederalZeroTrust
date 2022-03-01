@@ -81,9 +81,9 @@ To fully understand the context in which the Federal government views Zero Trust
 
 ## HashiCorp 
 
-- https://www.hashicorp.com/solutions/zero-trust-security
-- https://www.hashicorp.com/resources/enabling-zero-trust-security-in-the-public-sector
-- https://www.hashicorp.com/resources/how-zero-trust-networking
+- Zero Trust Security https://www.hashicorp.com/solutions/zero-trust-security
+- Zero Trust Security in the Public Sector https://www.hashicorp.com/resources/enabling-zero-trust-security-in-the-public-sector
+- Zero Trust Networking https://www.hashicorp.com/resources/how-zero-trust-networking
 
 
 # Videos
