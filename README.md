@@ -38,6 +38,7 @@ To fully understand the context in which the Federal government views Zero Trust
 - Office of Management and Budget (OMB) Memo M-22-09 "Moving the U.S. Government Toward Zero Trust Cybersecurity Principles" This Memo sets forth a Federal zero trust architecture (ZTA) strategy, requiring agencies to meet specific cybersecurity standards and objectives by the end of Fiscal Year (FY) 2024 (https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf)
 - Cybersecurity and Infrastructure Security Agency (CISA) Zero Trust Maturity Model (https://www.cisa.gov/zero-trust-maturity-model) 
 - Department of Defense (DoD) Zero Trust Reference Architecture (https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf)
+- Federal Zero Trust and Identity Management NSTAC Report to the President (https://www.cisa.gov/sites/default/files/publications/Final%20Draft%20NSTAC%20Report%20to%20the%20President%20on%20Zero%20Trust%20and%20Trusted%20Identity%20Management.pdf)
 
 # NIST
 
