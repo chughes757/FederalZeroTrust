@@ -39,6 +39,7 @@ To fully understand the context in which the Federal government views Zero Trust
 - Cybersecurity and Infrastructure Security Agency (CISA) Zero Trust Maturity Model (https://www.cisa.gov/zero-trust-maturity-model) 
 - Department of Defense (DoD) Zero Trust Reference Architecture (https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v1.1(U)_Mar21.pdf)
 - Federal Zero Trust and Identity Management NSTAC Report to the President (https://www.cisa.gov/sites/default/files/publications/Final%20Draft%20NSTAC%20Report%20to%20the%20President%20on%20Zero%20Trust%20and%20Trusted%20Identity%20Management.pdf)
+- Embracing a Zero Trust Security Model - National Security Agency (NSA) (https://media.defense.gov/2021/Feb/25/2002588479/-1/-1/0/CSI_EMBRACING_ZT_SECURITY_MODEL_UOO115131-21.PDF)
 
 # NIST
 
